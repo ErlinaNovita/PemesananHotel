@@ -100,7 +100,31 @@
             android:layout_height="wrap_content"
             android:entries="@array/service" />
 
-    <Button
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Silahkan memilih nuansa kamar yang anda inginkan" />
+
+        <CheckBox
+            android:id="@+id/checkBoxGold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gold" />
+
+        <CheckBox
+            android:id="@+id/checkBoxPastel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pastel" />
+
+        <CheckBox
+            android:id="@+id/checkBoxWhite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="White" />
+
+        <Button
         android:id="@+id/buttonOK"
         style="@style/Base.TextAppearance.AppCompat.Title"
         android:layout_width="match_parent"
