@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="service">
+        <item>SPA</item>
+        <item>Pijat Refleksi</item>
+        <item>Potong Rambut</item>
+        <item>Mandi Susu</item>
+        <item>Double Makanan</item>
+        <item>Manicure</item>
+    </string-array>
+</resources>
